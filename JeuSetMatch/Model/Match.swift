@@ -2,8 +2,7 @@
 //  Match.swift
 //  Jeu Set & Match
 //
-//  Created by Ambroise COLLON on 19/10/2017.
-//  Copyright © 2017 OpenClassrooms. All rights reserved.
+//  Created by Dusan Orescanin on 05/02/2022.
 //
 
 import Foundation

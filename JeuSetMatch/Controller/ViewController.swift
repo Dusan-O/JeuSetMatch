@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  TennisScore
 //
-//  Created by Ambroise COLLON on 10/10/2017.
-//  Copyright © 2017 OpenClassrooms. All rights reserved.
+//  Created by Dusan Orescanin on 05/02/2022.
 //
 
 import UIKit

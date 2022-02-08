@@ -26,7 +26,7 @@ class Game {
 
     // MARK: - Methods
     func incrementScore(forPlayer player: Player) {
-        if let score = scores[player], let scoreIndex = Game.points.index(of: score) {
+        if let score = scores[player], let scoreIndex = Game.points.firstIndex(of: score) {
             if score < 40 {
                 scores[player] = Game.points[scoreIndex + 1]
             } else {
